@@ -1,3 +1,0 @@
-/Users/sumitjoshi/Box Sync/Work_and_Education/Projects/3D_Reconstruction/build/CMakeFiles/rebuild_cache.dir
-/Users/sumitjoshi/Box Sync/Work_and_Education/Projects/3D_Reconstruction/build/CMakeFiles/edit_cache.dir
-/Users/sumitjoshi/Box Sync/Work_and_Education/Projects/3D_Reconstruction/build/CMakeFiles/3D_Reconstruction.dir
