@@ -1,5 +1,6 @@
 Prerequisite:
 1) PCL library version >=1.6 and all of its dependencies.Refer http://pointclouds.org/
+Note that PCL has different depedencies such as VTK etc. Install and test it carefully first.
 command: brew install pcl
 
 2) Python3 with opencv module in it
